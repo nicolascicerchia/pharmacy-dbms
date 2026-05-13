@@ -14,7 +14,7 @@ University project focused on database design and SQL programming for a pharmacy
 
 ## Technologies
 
-- MySQL / MariaDB
+- MySQL
 - Java (JDBC)
 - DBeaver
 - IntelliJ IDEA
