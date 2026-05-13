@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+
+# Build
+target/
+out/
+bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+
+# Database local files
+*.db
+*.sqlite
+
+# Compiled Java
+*.class
