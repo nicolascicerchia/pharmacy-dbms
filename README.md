@@ -47,7 +47,7 @@ CREATE DATABASE farmacia;
 3. Configure database credentials inside:
 
 ```
-client/src/Db.java
+thin-client/src/Db.java
 ```
 
 4. Run:
