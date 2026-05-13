@@ -41,7 +41,7 @@ CREATE DATABASE farmacia;
 - triggers.sql
 - views.sql
 - procedures.sql
-- dta_db.sql
+- data_db.sql
 ```
 
 3. Configure database credentials inside:
