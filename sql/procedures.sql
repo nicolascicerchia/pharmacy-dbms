@@ -136,7 +136,7 @@ BEGIN
         ROLLBACK;
         RESIGNAL;
     END;
-	-- READ COMMITTED: INSERT singolo che però può portare a lettura non veritiera su giacenza
+	-- SERIALIZABLE: INSERT su scatola e UPDATE su medicinale
     SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
     
     START TRANSACTION;
